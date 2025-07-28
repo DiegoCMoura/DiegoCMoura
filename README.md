@@ -4,6 +4,10 @@
   <b>Desenvolvedor Full Stack</b> | C# • .NET • Angular • Node.js
 </p>
 
+<p>
+Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência sólida em projetos web utilizando **.NET e Angular**, além de trabalhar com **Node.js**, **SQL Server**, **MongoDB**, **Docker**, e muito mais. Gosto de transformar ideias em soluções práticas, com código limpo e escalável.
+</p>
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -93,8 +97,9 @@
 ### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/diego-camara-moura/)
-- [GitHub](https://github.com/DiegoCMoura)
-- Email: **seu@email.com**
+<!-- - [GitHub](https://github.com/DiegoCMoura)
+- Email: **seu@email.com** -->
 
 ---
 
+🧠 _“A melhor forma de prever o futuro é criá-lo.” – Alan Kay_
