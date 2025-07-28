@@ -5,7 +5,8 @@
 </p>
 
 <p>
-Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência sólida em projetos web utilizando **.NET e Angular**, além de trabalhar com **Node.js**, **SQL Server**, **MongoDB**, **Docker**, e muito mais. Gosto de transformar ideias em soluções práticas, com código limpo e escalável.
+Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência sólida em projetos web utilizando <b>C# .NET</b>, além de trabalhar com <b>Node.js</b>, <b>SQL Server</b>, e muito mais. Gosto de transformar ideias em soluções práticas, com código limpo e escalável.
+Atualmente estou estudando muito <b>Blazor</b> para ampliar minhas possibilidades de desenvolvimento para aplicações web.
 </p>
 
 ---
