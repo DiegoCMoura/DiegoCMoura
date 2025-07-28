@@ -78,11 +78,11 @@ Atualmente estou estudando muito <b>Blazor</b> para ampliar minhas possibilidade
 
 ### 💼 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
+<!-- | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 | [**Meu Portfólio**](https://github.com/DiegoCMoura/portfolio) | React, Tailwind | Meu site pessoal com projetos e experiências |
 | [**API Financeira**](https://github.com/DiegoCMoura/finance-api) | .NET, SQL Server, DDD | API RESTful para controle financeiro |
-| [**Gestão de Tarefas**](https://github.com/DiegoCMoura/task-manager) | Angular, Node.js, MongoDB | Sistema completo de gerenciamento de tarefas |
+| [**Gestão de Tarefas**](https://github.com/DiegoCMoura/task-manager) | Angular, Node.js, MongoDB | Sistema completo de gerenciamento de tarefas | -->
 
 ---
 
