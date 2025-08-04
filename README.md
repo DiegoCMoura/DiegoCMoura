@@ -97,7 +97,7 @@ Atualmente estou estudando muito <b>Blazor</b> para ampliar minhas possibilidade
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/diego-camara-moura/)
+- [LinkedIn](https://www.linkedin.com/in/diegocamaramoura/)
 <!-- - [GitHub](https://github.com/DiegoCMoura)
 - Email: **seu@email.com** -->
 
